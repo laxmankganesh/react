@@ -18,4 +18,39 @@ Reactroot.render(div1);
 
 
 
+// function sum(a,b){
+//     return a+b;
+// }
+
+// sum(2,3);
+// version: 18.2.3
+
+
+// function sum(a,b){
+//     return a+b;
+// }
+
+// function subtract(a,b){
+//     return a-b;
+// }
+
+
+
+
+
+// version: 19.0.0
+
+// function sum(a,b,c){
+//     return a+b+c;
+// }
+
+// function subtract(a,b){
+//     return a-b;
+// }
+
+// sum(2,3,0);
+
+
+
+
 
